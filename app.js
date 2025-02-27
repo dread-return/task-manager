@@ -1355,5 +1355,5 @@ const CompleteTaskManager = () => {
 };
 
 export default CompleteTaskManager;
-
+// Add this at the end of app.js
 ReactDOM.render(<CompleteTaskManager />, document.getElementById('root'));
